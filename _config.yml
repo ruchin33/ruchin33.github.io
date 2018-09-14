@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kexin Rong
-email: krong@stanford.edu
-description: krong@stanford.edu
+title: Ruchin Patel
+email: ruchinpa@usc.edu
+description: ruchinpa@usc.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  kexinrong
-linkedin_username: kexinrong
+github_username:  ruchin33
+linkedin_username: Ruchin Patel
 
 # Build settings
 markdown: kramdown
