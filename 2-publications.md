@@ -25,28 +25,28 @@ tagline: "By date"
       This Project uses SVM,Perceptron,AdaBoost classifier. Data wrangling and Data Cleaning is done from scratch.<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Finding_donors_for_charity(supervised_learning)">code</a>]</span>
   </div>
 </p>
-</div> -->
+</div> 
    <p>  <div class="manual-content">
   <a  href="/papers/long_term_deposit.pdf"  style="font-weight: bolder;">
       Predicting potential clients who would open a long term deposit account at a Lisbon bank: Supervised Learning(Classification) </a><br>
       Uses generative probability models like SMOTE,and classifiers like neural networks,SVM,Minimum risk Bayes classifier and perceptron.<br><i>Nov 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Finding_potential_customers_for_Lisbon_bank(supervised_learning">code</a>]</span>
   </div>
 </p>
-</div> -->
+</div> 
    <p>  <div class="manual-content">
   <a  href="/papers/boston_prices.html"  style="font-weight: bolder;">
       Predicting Boston house prices based on Historical data: Supervised Learning(Regression)</a><br>
-      This project consists of regressors like Decision Tree Regressor and AdaBoost regressor..<br><i>Aug 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Predicting_Boston_House_prices">code</a>]</span>
+      This project consists of regressors like Decision Tree Regressor and AdaBoost regressor.<br><i>Aug 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Predicting_Boston_House_prices">code</a>]</span>
   </div>
 </p>
-</div> -->
+</div> 
    <p>  <div class="manual-content">
   <a  href="/papers/sentiment_analysis.pdf"  style="font-weight: bolder;">
       Prediction of the underlying sentiments of Amazon book reviews: Supervised Learning(Multiclass Classification)</a><br>
       Uses Naive Bayes model to predict these sentiments after converting the data-set in bag of word format.<br><i>Feb 2017</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Final_Proj_Sentiment_analysis_Amazon_reviews">code</a>]</span>
   </div>
 </p>
-</div> -->
+</div>
    <p>  <div class="manual-content">
   <a  href="/papers/titanic_survival.html"  style="font-weight: bolder;">
       Exploratory Data Analysis of survival rates of titanic ship wreck.</a><br>
@@ -54,3 +54,5 @@ tagline: "By date"
   </div>
 </p>
 </div>
+
+
