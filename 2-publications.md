@@ -18,7 +18,7 @@ tagline: "By date"
       This project uses K-Means clustering, Gaussian Mixture model clustering,feature selection methods, Decision Trees, PCA, data cleaning and data wrangling techniques.<br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Customer_Segments_wholesale_dist(unsupervised_learning)">code</a>]</span>
   </div>
 </p>
-   </div> -->
+   </div>
    <p>  <div class="manual-content">
   <a  href="/papers/cust_seg.html"  style="font-weight: bolder;">
       Predicting salary of a person from US Census data for Charity: Supervised Learning(Classification)</a><br>
