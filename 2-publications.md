@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Publications
-permalink: /publication/
+title : Machine Learning Projects
+permalink: /ML Projects/
 tagline: "By date"
 ---
 <!--<div class="tagline">
@@ -13,15 +13,15 @@ tagline: "By date"
   <strong>2017</strong>
   </div> -->
    <p>  <div class="manual-content">
-  <a  href="/papers/quake-vldb18.pdf"  style="font-weight: bolder;">
-      Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</a><br>
-      <u class="dotted">Kexin Rong</u>, Clara Yoon, Karianne Bergen, Hashem Elezabi, Peter Bailis, Philip Levis, Gregory Beroza. <br><i>VLDB 2018</i>.<br><span>[<a href="https://dawn.cs.stanford.edu/2018/09/05/quake/">blog</a>][<a href="https://www.youtube.com/watch?v=LXi0TIOOfEY">video</a>][<a href="https://github.com/stanford-futuredata/FAST">code</a>]</span>
+  <a  href="/papers/cust_seg.html"  style="font-weight: bolder;">
+      Finding Customer segments for a whole sale distributor for delivery schedules: Unsupervised Learning(Clustering)</a><br>
+       <br><i>2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Customer_Segments_wholesale_dist(unsupervised_learning)">code</a>]</span>
   </div>
 </p>
    <p>  <div class="manual-content">
-  <a href="/papers/asap-vldb17.pdf" style="font-weight: bolder;">
-      ASAP: Prioritizing Attention via Time Series Smoothing</a><br>
-      <u class="dotted">Kexin Rong</u>, Peter Bailis.<br> <i>VLDB 2017.</i><br>
+  <a href="/papers/donor_charity.html" style="font-weight: bolder;">
+      Predicting salary of a Person for donation: Supervised Learning(Classification)</a><br>
+      <br> <i>2017.</i><br>
       <span>[<a href="http://futuredata.stanford.edu/asap/">demo</a>][<a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog</a>][<a href="https://vimeo.com/221062931">talk</a>][<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>][<a href="https://github.com/stanford-futuredata/ASAP">code</a>]</span> 
   </div>
 </p>
