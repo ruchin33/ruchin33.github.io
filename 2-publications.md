@@ -15,7 +15,7 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="/papers/cust_seg.html"  style="font-weight: bolder;">
       Finding Customer segments for a whole sale distributor for delivery schedules: Unsupervised Learning(Clustering)</a><br>
-       <br><i>2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Customer_Segments_wholesale_dist(unsupervised_learning)">code</a>]</span>
+      This project uses K-Means clustering, Gaussian Mixture model clustering, PCA, data cleaning and data wrangling techniques.<br><i>2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Customer_Segments_wholesale_dist(unsupervised_learning)">code</a>]</span>
   </div>
 </p>
    <p>  <div class="manual-content">
