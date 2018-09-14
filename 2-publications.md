@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Publications
-permalink: /publication/
+title : Machine Learning
+permalink: /ML Projects/
 tagline: "By date"
 ---
 <!--<div class="tagline">
