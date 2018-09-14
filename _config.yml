@@ -11,7 +11,7 @@ email: ruchinpa@usc.edu | 432-266-2949
 description: ruchinpa@usc.edu | 432-266-2949
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  ruchin33
-linkedin_username: Ruchin Patel
+linkedin_username: ruchin-patel
 
 # Build settings
 markdown: kramdown
