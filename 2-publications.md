@@ -7,7 +7,7 @@ tagline: "By date"
 <!--<div class="tagline">
 <span class="page-title">Publications</span> <span class="page-tagline"><em>by Date</em></span>
 </div>-->
-<div class="manual-post" style="font-size: 12px">
+<div class="manual-post" style="font-size: 17px">
 <div>
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
