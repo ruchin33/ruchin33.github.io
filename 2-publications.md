@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Machine Learning
+title : MACHINE LEARNING PROJECTS
 permalink: /ML Projects/
 tagline: "By date"
 ---
