@@ -10,7 +10,7 @@
     <span class="exclamationMarkLeft">|</span>
     {% for sitePage in site.pages %}
 	    {% if sitePage.title %}
-	    <a style="font-size:16px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+	    <a style="font-size:12px" class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
 		    {% if sitePage.title != "Updates" %}
 		    <span class="exclamationMark">|</span>
 		    {% endif %}
