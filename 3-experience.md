@@ -1,6 +1,6 @@
 ---
 layout: page
-title : " STATS PROJECTS |" 
+title : " STATISTICS PROJECTS |" 
 permalink: /Stat Proj/
 tagline: "By date"
 ---
