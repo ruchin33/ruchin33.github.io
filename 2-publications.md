@@ -19,7 +19,7 @@ tagline: "By date"
   </div>
 </p>
    <p>  <div class="manual-content">
-  <a  href="/papers/donor_charity.htm"  style="font-weight: bolder;">
+  <a  href="/papers/donor_charity.html"  style="font-weight: bolder;">
       Predicting salary of a person from US Census data for Charity: Supervised Learning(Classification)</a><br>
       This Project uses SVM,Perceptron,AdaBoost classifier. Data wrangling and Data Cleaning is done from scratch.<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Finding_donors_for_charity(supervised_learning)">code</a>]</span>
   </div>
