@@ -45,7 +45,7 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="/papers/titanic_survival.html"  style="font-weight: bolder;">
       Exploratory Data Analysis of survival rates of titanic ship wreck.</a><br>
-      Uses Decision tress and adaboost.<br><i>Nov 2016</i>.<br><span>[<a href="">code</a>]</span>
+      Uses Decision tress and adaboost.<br><i>Nov 2016</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Titanic_RMS_survival_project">code</a>]</span>
   </div>
 </p>
 </div>
