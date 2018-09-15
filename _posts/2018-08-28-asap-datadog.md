@@ -1,8 +1,9 @@
 ---
 layout: post
-title: ASAP in Datadog 
-date: 2018-08-29
+title: Thinking of a New project. 
+date: 2018-10-14
 categories: "updates"
 tag: "#blog"
 ---
-Excited to see ideas from <a href="http://futuredata.stanford.edu/asap/">ASAP</a> made it into Datadog's new auto-smooth feature. More details are available in their recent <a href="https://www.datadoghq.com/blog/auto-smoother-asap/">blog post</a>.
+
+Excited to see the new <a href="https://toolbox.google.com/datasetsearch">Google Dataset Search</a>. Thousands of datasets available. Need a little luck to obtain a good Data Set.
