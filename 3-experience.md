@@ -24,6 +24,12 @@ tagline: "By date"
       Uses Exploratory Data Analysis an simulations to analyze discrete Random Variables and prove the Central Limit Theorem.<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
       </div>
 </p>
+   <p>  <div class="manual-content">
+  <a  href="/papers/Monte_Carlo_methods.html"  style="font-weight: bolder;">
+      Analyze different Monte Carlo techniques </a><br>
+      Determines the value of pi, euler's number using monte Carlo techniques. Also contains method to estimate the value of a definite Integral(Much faster algorithm than normal Integral algorithms).<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
+      </div>
+</p>
 </div>
 
 
