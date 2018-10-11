@@ -27,7 +27,13 @@ tagline: "By date"
    <p>  <div class="manual-content">
   <a  href="/papers/Monte_Carlo_methods.html"  style="font-weight: bolder;">
       Analyze different Monte Carlo techniques </a><br>
-      Determines the value of pi, euler's number using monte Carlo techniques. Also contains method to estimate the value of a definite Integral(Much faster algorithm than normal Integral algorithms).<br><i>Jan 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
+      Determines the value of pi, euler's number using monte Carlo techniques. Also contains method to estimate the value of a definite Integral(Much faster algorithm than normal Integral algorithms).<br><i>Feb 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Analysis_of_Random_variables">code</a>]</span>
+      </div>
+</p>
+   <p>  <div class="manual-content">
+  <a  href="/papers/report_Derieved_distributions.html"  style="font-weight: bolder;">
+      Analyze Derived distributions using Continuous uniform random variables </a><br>
+      This project uses Central limit Theorem and Hypothesis Testing to predict the PDF and expected values of Derived distributions. It also contains theoretical derivations of the same PDF and expected values]. Finally we compare the theoretical and the simulated values to prove how the and why the Central Limit theorem works. For more information follow the links. <br><i>Mar 2018</i>.<br><span>[<a href="https://github.com/ruchin33/Probability_and_Inferential_Statistics/tree/master/Project_Derieved_Distributions">code</a>]</span>
       </div>
 </p>
 </div>
