@@ -14,7 +14,7 @@ tagline: "By date"
   </div> -->
    
    <p>  <div class="manual-content">
-  <a  href="/papers/Recommender_System_report_Capstone.html"  style="font-weight: bolder;">
+  <a  href="/papers/Recommender_System_report_Capstone.pdf"  style="font-weight: bolder;">
       A Recommender System for Amazon products based on Sentiment analysis of Reviews. Supervised Learning/Natural Language Processing/Collaborative filtering</a><br>
       The project goes through different techniques of supervised learning like AdaBoost, Random Forest, Logistic regression etc. to classify the underlying sentiment of the reviews given to every product and based on those sentiments recommendations are made to the users with the help of collaborative filtering.<br><i>Dec 2018</i>.<br><span>[<a href="https://github.com/ruchin33/MACHINE-LEARNING-PROJECTS/tree/master/Recommender_System_Project">code</a>]</span>
   </div>
